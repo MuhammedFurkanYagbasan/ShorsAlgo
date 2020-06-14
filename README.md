@@ -28,6 +28,11 @@
 python HW1.py num_to_factorize
 ```
 
+## Video Explanation
+
+- [video](https://www.youtube.com/watch?v=fzNOtX6CLWk&feature=youtu.be)
+
+
 # References
 - [qiskit textbook](https://qiskit.org/textbook/ch-algorithms/shor.html)
 - [example project](https://github.com/ttlion/ShorAlgQiskit/blob/master/Shor_Normal_QFT.py)
