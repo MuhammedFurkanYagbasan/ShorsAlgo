@@ -22,6 +22,12 @@
 	p = gcd(a^(r/2)-1, N)
 	q = gcd(a^(r/2)+1, N)
 
+## Execute
+
+```bash
+python HW1.py num_to_factorize
+```
+
 # References
 - [qiskit textbook](https://qiskit.org/textbook/ch-algorithms/shor.html)
 - [example project](https://github.com/ttlion/ShorAlgQiskit/blob/master/Shor_Normal_QFT.py)
