@@ -28,5 +28,6 @@
 - [Period finding in Shor’s Algorithm](https://medium.com/@jonathan_hui/qc-period-finding-in-shors-algorithm-7eb0c22e8202)
 - [Circuit for Shor’s algorithm using 2n+3 qubits](https://arxiv.org/pdf/quant-ph/0205095.pdf)
 - [IBM explanation of Shor's Algorithm](https://quantum-computing.ibm.com/docs/guide/q-algos/shor-s-algorithm)
+- [Ahmet Çevik Quantum Computation Course Lecture Notes](http://ahmetcevik.com/wp-content/uploads/2020/04/Quantum-computing-lecture-notes.pdf)
 
 Muhammed Furkan YAĞBASAN
