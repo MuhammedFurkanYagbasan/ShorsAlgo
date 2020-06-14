@@ -1,12 +1,12 @@
 #########################################
-#										#
-#	CENG798 - Quantum Computation		#
-#										#
-#	Shor's Algorithm Implementation		#
-#										#
-#	Muhammed Furkan YAĞBASAN			#
-#	2099505								#
-#										#
+#										
+#	CENG798 - Quantum Computation		
+#										
+#	Shor's Algorithm Implementation		
+#										
+#	Muhammed Furkan YAĞBASAN			
+#	2099505								
+#										
 #########################################
 
 import random
